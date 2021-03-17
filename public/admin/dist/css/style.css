@@ -1,0 +1,53 @@
+.login-page, .register-page{
+	background-color:#1597cb;
+}
+.login-box, .register-box {
+    width: 360px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn-main{
+    background-color: #1597cb;
+    border-color: #1597cb;
+    color: #fff;
+}
+.btn-main:hover, .btn-main:active, .btn-main.hover{
+	 background-color: transparent;
+	 border-color: #1597cb;
+	 color: #1597cb;
+}
+.btn-main.focus, .btn-main:focus {
+    color: #fff;
+    background-color: #1597cb;
+    border-color: #122b40;
+}
+.skin-blue .main-header .navbar {
+    background-color: #ee3a24 !important;
+}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #ee3a24 !important;
+}
+.text-aqua {
+    color: #ee3a24 !important;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #1e282c !important;
+}
+
+.skin-blue .sidebar-menu>li:hover>a, .skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li.menu-open>a {
+    color: #fff;
+    background: #6e5c53 !important;   
+}
+.skin-blue .main-header .logo {
+    background-color: #ee3a24 !important;
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #ee3a24 !important;
+}
+.main-header .logo .logo-lg{text-align: left;}
+.logo-lg img{    width: 142px;}
+
+

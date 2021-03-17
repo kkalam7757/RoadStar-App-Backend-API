@@ -1,0 +1,100 @@
+[29-Jul-2020 12:33:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php on line 7
+[29-Jul-2020 12:33:27 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php on line 8
+[29-Jul-2020 12:33:28 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php on line 10
+[29-Jul-2020 12:33:29 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php on line 8
+[29-Jul-2020 12:33:29 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php on line 8
+[11-Sep-2020 07:37:26 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:37:26 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php on line 7
+[11-Sep-2020 07:37:31 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:37:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php on line 8
+[11-Sep-2020 07:38:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php on line 10
+[11-Sep-2020 07:38:09 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:38:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php on line 8
+[11-Sep-2020 07:39:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:39:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Nov-2020 15:07:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php on line 7
+[20-Nov-2020 15:07:24 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php on line 8
+[20-Nov-2020 15:07:24 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:24 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php on line 8
+[20-Nov-2020 15:07:27 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:27 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php on line 10
+[20-Nov-2020 15:07:28 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php on line 8
+[24-Dec-2020 10:38:25 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:38:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AppServiceProvider.php on line 7
+[24-Dec-2020 10:38:36 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/AuthServiceProvider.php on line 8
+[24-Dec-2020 10:39:14 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:39:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/EventServiceProvider.php on line 10
+[24-Dec-2020 10:39:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:39:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/RouteServiceProvider.php on line 8
+[24-Dec-2020 10:40:01 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:01 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Providers/BroadcastServiceProvider.php on line 8

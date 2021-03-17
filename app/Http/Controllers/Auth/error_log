@@ -1,0 +1,75 @@
+[11-Sep-2020 23:16:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:16:19 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php on line 8
+[11-Sep-2020 23:16:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php on line 11
+[11-Sep-2020 23:16:58 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:16:58 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php on line 8
+[11-Sep-2020 23:17:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:17:03 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[11-Sep-2020 23:17:09 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:17:09 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[20-Nov-2020 18:40:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[20-Nov-2020 18:40:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php on line 11
+[20-Nov-2020 18:40:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[20-Nov-2020 18:40:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php on line 8
+[20-Nov-2020 18:40:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php on line 8
+[25-Dec-2020 16:27:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/LoginController.php on line 8
+[25-Dec-2020 16:27:32 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/RegisterController.php on line 11
+[25-Dec-2020 16:27:37 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/VerificationController.php on line 8
+[25-Dec-2020 16:27:42 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:42 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[25-Dec-2020 16:27:48 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:48 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8

@@ -1,0 +1,196 @@
+.login-page, .register-page{
+	background-color:#1597cb;
+}
+.login-box, .register-box {
+    width: 360px;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.btn-main{
+    background-color: #1597cb;
+    border-color: #1597cb;
+    color: #fff;
+}
+.btn-main:hover, .btn-main:active, .btn-main.hover{
+	 background-color: transparent;
+	 border-color: #1597cb;
+	 color: #1597cb;
+}
+.btn-main.focus, .btn-main:focus {
+    color: #fff;
+    background-color: #1597cb;
+    border-color: #122b40;
+}
+.skin-blue .main-header .navbar {
+    background-color: #1597cb !important;
+}
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #1597cb !important;
+}
+.skin-blue .main-header .logo {
+    background-color: #ffffff !important;
+    color: #1597cb !important;
+    border-bottom: 0 solid transparent;
+}
+.content-wrapper{
+	padding: 20px;
+}
+.content{
+	background: #fff;
+	margin-top: 20px;
+	border-top: 2px solid #1597cb;
+}
+.heading-bg{
+	background-color: #1597cb;
+	color: #fff;
+	display:block;
+	padding: 7px 5px;
+	border-radius: 2px;
+}
+.heading-bg h3{
+	padding: 0;
+	margin: 0;
+}
+.modal-header{
+  background-color: #1597cb;
+  color: #fff;  
+}
+.close{
+    color: #fff;
+    opacity: 1;
+}
+.required{
+    color: red;
+}
+.addrow{
+    margin-top: 10px;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #fff;
+    cursor: default;
+    background-color: #1597cb;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+
+/*toggle button css*/
+
+
+.switchcheckbox {
+  display: none !important;
+}
+
+.switch {
+  align-items: center;
+  background-color: gray;
+  border-radius: 500px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  justify-content: space-between;
+  padding: 0 10px;
+  position: relative;
+  user-select: none;
+  width: 70px;
+}
+
+.checkbox:checked ~ .switch {
+  background-color: blue;
+}
+
+.checkbox:not(:checked) ~ .switch {
+  background-color: gray;
+}
+
+.switch__left,
+.switch__right {
+  color: white;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.checkbox:checked ~ .switch .switch__left {
+  visibility: hidden;
+}
+
+.checkbox:not(:checked) ~ .switch .switch__right {
+  visibility: hidden;
+}
+
+.switch__circle {
+  height: 40px;
+  padding: 5px;
+  position: absolute;
+  transition: all 0.1s linear;
+  width: 40px;
+}
+
+.checkbox:checked ~ .switch .switch__circle {
+  left: 0;
+  right: calc(100% - 40px);
+}
+
+.checkbox:not(:checked) ~ .switch .switch__circle {
+  left: calc(100% - 40px);
+  right: 0;
+}
+
+.switch__circle-inner {
+  background-color: white;
+  border-radius: 50%;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+/*end switch button css*/
+
+.nav-tabs>li>a{
+    border:1px solid #1597cb;
+}
+
+.profile_box{
+    padding: 40px;
+}
+.content_box{
+    padding: 20px;
+}
+.content_box ul{
+    padding: 0px;
+    margin: 0;
+    list-style: none;
+}
+.content_box ul li{
+   padding: 10px 0;
+}
+.rating_list{
+    list-style: none;
+}
+.rating_list li{
+    display: inline-block;
+}
+.rating_list li i{
+    color: #ffa000;
+}
+.nav-tabs-custom>.nav-tabs>li.active{
+    border-top: none;
+}
+.list-group-unbordered>.list-group-item{
+    border:none;
+}
+.service_row{
+    margin-bottom: 10px;
+}
+.mt-10{
+margin-top: 10px;
+}
+.mt-30{
+margin-top: 30px;
+}
+#consultant_booking{
+  display: none;
+}

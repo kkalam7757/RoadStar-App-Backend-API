@@ -1,0 +1,25 @@
+[29-Jul-2020 12:33:18 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/demoearth/public_html/roadstar/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Kernel.php on line 7
+[31-Jul-2020 01:10:49 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[31-Jul-2020 01:10:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/demoearth/public_html/roadstar/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Kernel.php on line 7
+[11-Sep-2020 06:16:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 06:16:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/demoearth/public_html/roadstar/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Kernel.php on line 7
+[20-Nov-2020 15:07:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/demoearth/public_html/roadstar/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Kernel.php on line 7
+[24-Dec-2020 10:23:42 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:23:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home/demoearth/public_html/roadstar/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Kernel.php on line 7

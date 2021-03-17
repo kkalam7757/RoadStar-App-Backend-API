@@ -1,0 +1,25 @@
+[29-Jul-2020 12:16:56 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:16:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/demoearth/public_html/roadstar/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/bootstrap/app.php on line 14
+[11-Sep-2020 04:45:14 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 04:45:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/demoearth/public_html/roadstar/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/bootstrap/app.php on line 14
+[11-Sep-2020 14:29:44 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 14:29:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/demoearth/public_html/roadstar/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/bootstrap/app.php on line 14
+[20-Nov-2020 13:30:41 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 13:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/demoearth/public_html/roadstar/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/bootstrap/app.php on line 14
+[24-Dec-2020 09:37:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 09:37:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home/demoearth/public_html/roadstar/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/bootstrap/app.php on line 14

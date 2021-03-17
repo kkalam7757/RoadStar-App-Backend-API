@@ -1,0 +1,20 @@
+[11-Sep-2020 23:16:14 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 23:16:14 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php on line 18
+[19-Oct-2020 11:04:07 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Oct-2020 11:04:07 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php on line 18
+[20-Nov-2020 18:40:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 18:40:21 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php on line 18
+[25-Dec-2020 16:27:15 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:27:15 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/MasterController.php on line 18

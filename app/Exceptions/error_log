@@ -1,0 +1,25 @@
+[29-Jul-2020 12:33:06 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:33:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php on line 8
+[11-Sep-2020 07:18:08 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:18:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php on line 8
+[15-Sep-2020 18:24:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[15-Sep-2020 18:24:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php on line 8
+[20-Nov-2020 15:07:31 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:07:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php on line 8
+[24-Dec-2020 10:31:20 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:31:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Exceptions/Handler.php on line 8

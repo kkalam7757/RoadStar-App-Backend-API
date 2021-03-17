@@ -1,0 +1,460 @@
+[29-Jul-2020 12:34:57 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:57 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[29-Jul-2020 12:34:58 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php on line 7
+[29-Jul-2020 12:34:59 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:59 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:59 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php on line 7
+[29-Jul-2020 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php on line 7
+[29-Jul-2020 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php on line 7
+[29-Jul-2020 12:34:59 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:34:59 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php on line 7
+[29-Jul-2020 12:35:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php on line 7
+[29-Jul-2020 12:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php on line 7
+[29-Jul-2020 12:35:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php on line 7
+[29-Jul-2020 12:35:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php on line 7
+[29-Jul-2020 12:35:04 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php on line 7
+[29-Jul-2020 12:35:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[29-Jul-2020 12:35:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php on line 7
+[29-Jul-2020 12:35:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:31 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php on line 7
+[29-Jul-2020 12:35:32 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php on line 7
+[29-Jul-2020 12:35:33 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php on line 7
+[29-Jul-2020 12:35:33 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php on line 7
+[29-Jul-2020 12:35:34 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:34 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php on line 7
+[29-Jul-2020 12:35:35 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php on line 7
+[29-Jul-2020 12:35:35 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[29-Jul-2020 12:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php on line 7
+[11-Sep-2020 07:40:08 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php on line 7
+[11-Sep-2020 07:40:14 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php on line 7
+[11-Sep-2020 07:40:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php on line 7
+[11-Sep-2020 07:40:25 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php on line 7
+[11-Sep-2020 07:40:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php on line 7
+[11-Sep-2020 07:40:36 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php on line 7
+[11-Sep-2020 07:40:41 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php on line 7
+[11-Sep-2020 07:40:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[11-Sep-2020 07:40:52 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php on line 7
+[11-Sep-2020 07:40:58 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php on line 7
+[11-Sep-2020 07:41:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php on line 7
+[11-Sep-2020 07:41:08 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php on line 7
+[11-Sep-2020 07:41:14 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php on line 7
+[11-Sep-2020 07:41:19 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php on line 7
+[11-Sep-2020 07:41:25 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php on line 7
+[11-Sep-2020 07:41:30 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[11-Sep-2020 07:41:36 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php on line 7
+[11-Sep-2020 07:41:41 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:41 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php on line 7
+[11-Sep-2020 07:41:47 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php on line 7
+[11-Sep-2020 07:41:52 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php on line 7
+[11-Sep-2020 07:41:58 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:41:58 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php on line 7
+[11-Sep-2020 07:42:03 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:42:03 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php on line 7
+[11-Sep-2020 07:42:09 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[11-Sep-2020 07:42:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php on line 7
+[15-Sep-2020 23:08:02 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[15-Sep-2020 23:08:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[15-Sep-2020 23:08:08 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[15-Sep-2020 23:08:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php on line 7
+[19-Oct-2020 07:00:04 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[19-Oct-2020 07:00:04 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[20-Nov-2020 15:08:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php on line 7
+[20-Nov-2020 15:08:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php on line 7
+[20-Nov-2020 15:08:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[20-Nov-2020 15:08:21 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php on line 7
+[20-Nov-2020 15:08:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php on line 7
+[20-Nov-2020 15:08:23 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[20-Nov-2020 15:08:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php on line 7
+[24-Dec-2020 10:40:28 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_163159_create_user_table.php on line 7
+[24-Dec-2020 10:40:33 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093409_create_admin_table.php on line 7
+[24-Dec-2020 10:40:39 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:39 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150654_create_service_table.php on line 7
+[24-Dec-2020 10:40:44 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153145_create_provider_table.php on line 7
+[24-Dec-2020 10:40:50 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:50 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_171915_create_size_of_load_table.php on line 7
+[24-Dec-2020 10:40:55 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:40:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_153222_create_provider_type_table.php on line 7
+[24-Dec-2020 10:41:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_150831_create_service_medium_table.php on line 7
+[24-Dec-2020 10:41:06 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7
+[24-Dec-2020 10:41:11 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_185511_add_fields_in_provider_table.php on line 7
+[24-Dec-2020 10:41:17 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_173602_add_fields_in_provider_table.php on line 7
+[24-Dec-2020 10:41:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_164321_create_user_mobile_otp_table.php on line 7
+[24-Dec-2020 10:41:27 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_20_180301_create_provider_vehicle_table.php on line 7
+[24-Dec-2020 10:41:33 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:33 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_174935_create_provider_document_table.php on line 7
+[24-Dec-2020 10:41:38 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:38 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_08_11_165444_create_add_field_in_user_table.php on line 7
+[24-Dec-2020 10:41:44 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:44 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_06_21_093449_create_admin_login_history_table.php on line 7
+[24-Dec-2020 10:41:49 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:49 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_18_090332_create_provider_mobile_otp_table.php on line 7
+[24-Dec-2020 10:41:55 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:41:55 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_152835_create_individual_journy_detail_table.php on line 7
+[24-Dec-2020 10:42:00 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175251_create_provider_document_history_table.php on line 7
+[24-Dec-2020 10:42:06 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:06 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_175018_create_provider_mandatory_document_table.php on line 7
+[24-Dec-2020 10:42:11 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_162255_add_size_of_load_in_traveler_journy_detail.php on line 7
+[24-Dec-2020 10:42:17 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_14_180046_create_provider_document_history_status_table.php on line 7
+[24-Dec-2020 10:42:22 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:22 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_21_163716_add_partical_detail_in_traveler_journy_detail.php on line 7
+[24-Dec-2020 10:42:28 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Dec-2020 10:42:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/database/migrations/2020_07_15_193741_add_provider_type_id_in_mandatory_document_table.php on line 7

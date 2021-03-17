@@ -1,0 +1,10 @@
+[25-Dec-2020 16:39:24 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:39:24 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/User/UserController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/User/UserController.php on line 16
+[25-Dec-2020 16:40:02 UTC] PHP Warning:  Version warning: Imagick was compiled against Image Magick version 1650 but version 1654 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[25-Dec-2020 16:40:02 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Http\Controllers\Controller' not found in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/User/UserLoginController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/demoearth/public_html/roadstar/app/Http/Controllers/Api/User/UserLoginController.php on line 12
